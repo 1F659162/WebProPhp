@@ -12,12 +12,6 @@
         $sub = $z - $y;
         $mult = $y * $z;
         $message = "Hello world";
-        echo $x;            echo "<br>";
-        echo $y;            echo "<br>";
-        echo $z;            echo "<br>";
-        echo $add;          echo "<br>";
-        echo $sub;          echo "<br>";
-        echo $message;      echo "<br>";
 
         echo "ผลบวก ". $x . " + " . $y . " = " . $add ;             echo "<br>";
         echo "ผลลบ ". $z . " - " . $y . " = " . $sub ;              echo "<br>";
