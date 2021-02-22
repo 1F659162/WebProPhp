@@ -18,7 +18,7 @@
                         array_push($arr,rand(0,99));
                         echo "<td style='border:1px solid black;border-collapse: collapse;width:200px;'> ",$arr[$index],"</td>";
                         $index += 1;
-                    }
+                    } 
                     echo "</tr>";
                 }
             ?>
