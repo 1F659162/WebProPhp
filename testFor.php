@@ -7,6 +7,7 @@
         //echo("<font size=\"$i\">Welcome to PHP world</font><br />"); 
         }
     ?> 
+    asdasdasd
     </center>
 </body>
 </html>
